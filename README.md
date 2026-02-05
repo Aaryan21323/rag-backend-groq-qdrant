@@ -1,1 +1,1 @@
-This project is a production-style backend implementing a custom Retrieval-Augmented Generation (RAG) system using FastAPI. It is designed as an internship-ready assignment and follows clean architecture, modular design, and industry best practices.
+This project is a production-style backend implementing a custom Retrieval-Augmented Generation (RAG) system using FastAPI. 
