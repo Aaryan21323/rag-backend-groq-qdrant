@@ -196,17 +196,7 @@ I want to book an interview. My name is John Doe, email john@example.com, on Jun
 
 ---
 
-## Future Improvements
-
-* Authentication and authorization
-* Metadata filtering in vector search
-* Async ingestion pipeline
-* Background task processing
-* Support for additional file formats
-
----
-
 ## Author
 
-Built as an internship-ready backend assignment demonstrating practical RAG system design using modern open-source tools.
+Built as an  backend system demonstrating practical RAG system design using modern open-source tools.
 
